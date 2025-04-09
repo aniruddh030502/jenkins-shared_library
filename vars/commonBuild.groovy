@@ -6,3 +6,4 @@ stage('Unit Tests'){
 echo "Running unit tests... "
 sh './gradlew test'
 }
+}
